@@ -1,0 +1,31 @@
+<div id="post">
+  <h1>{{ page.title }}</h1>
+  <p class="meta">
+    {{ page.date | date_to_long_string }} 
+    {% if page.location %}{{ page.location }}{% endif %}
+  </p>
+  {{ content }}
+</div>
+
+<div id="related">
+  <h2>Subscribe to my essays by Email</h2>
+  <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="http://github.us6.list-manage1.com/subscribe/post?u=b3d765f9214563da3dd112ce8&amp;id=2484ff0543" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address: </label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="submit" value="Subscribe" name="subscribe">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
+</div>
+
+{% include JB/comments %}
