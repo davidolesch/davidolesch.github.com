@@ -5,7 +5,7 @@ description: ""
 category:
 tags: []
 ---
-{% include JB/setup %}
+{ include JB/setup }
 
 About car2go
 Car2go is a car sharing service that lets you unlock any of over 300 Smart cars parked throughout the city, drive to wherever you need to go and then leave the car parked there. You pay per minute you drive the car but there are no monthly fees, insurance costs or fuel charges. The main advantage over other car sharing services such as ZipCar is that the cars are equally spread throughout the city and you don't have to return the vehicle when you are done using it.
@@ -17,9 +17,9 @@ Car2go is the most convenient form of transportation in cities like Austin, Texa
 Car2go has a prepaid card in each car and with some practice you can refuel in about 2 minutes. Car2go gives you 20 free minutes each time you refuel a car so this means you can get 18 minutes of free driving time during each rental. The average rental time is just 9 minutes. I'll give you a summary of the entire processes so you can go out today and use car2go for free.
 
 Start your trip with an eligible car2go
-To get free minutes for refueling you need to have a car with less than 25% fuel. You can check whichever app/website you use to reserve cars and see which cars nearby have less than 25% fuel or you can visit free2goapp.com which has a map of all nearby cars with less than 25% fuel. Choose a car that you want to use and then walk to the car. When you arrive at the car scan your membership card as usual and begin the rental. 
+To get free minutes for refueling you need to have a car with less than 25 fuel. You can check whichever app/website you use to reserve cars and see which cars nearby have less than 25 fuel or you can visit free2goapp.com which has a map of all nearby cars with less than 25 fuel. Choose a car that you want to use and then walk to the car. When you arrive at the car scan your membership card as usual and begin the rental. 
 
-At this point you need to know where you are going and which gas station is on the way. Choose a route with a gas station on the way and get driving - the clock is ticking. If you don't know which gas stations are on the way to your destination you can again check free2goapp.com as they have gas stations on the same map as the car2go with less than 25% fuel.
+At this point you need to know where you are going and which gas station is on the way. Choose a route with a gas station on the way and get driving - the clock is ticking. If you don't know which gas stations are on the way to your destination you can again check free2goapp.com as they have gas stations on the same map as the car2go with less than 25 fuel.
 
 Fuel up on the way to your destination
 You can stop at any gas station you like and use the prepaid fuel card in the dash slot of the car2go to pay for the fuel. Fueling a car2go is exactly like fueling any other car. Before you get out of the card select Stop for Gas from the control screen and take note of the driver id and milage numbers which appear. To pay at the pump slide the prepaid fuel card like you would a normal credit card then enter the driver id and milage when prompted. Fill up the tank, take your receipt and you are done.
