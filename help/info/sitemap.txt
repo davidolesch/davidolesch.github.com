@@ -1,0 +1,10 @@
+
+http://davidolesch.github.com/archive.html
+http://davidolesch.github.com/atom.xml
+http://davidolesch.github.com/categories.html
+http://davidolesch.github.com/index.html
+http://davidolesch.github.com/pages.html
+http://davidolesch.github.com/sitemap.txt
+http://davidolesch.github.com/tags.html
+
+http://davidolesch.github.com/2012/12/05/how-to-choose-your-path
