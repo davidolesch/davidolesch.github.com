@@ -1,3 +1,10 @@
+---                                                                                                            
+layout: post
+title: "How to use car2go for free"
+description: "Car2go is the most convenient form of transportation in cities like Austin, Texas but compared to other transportation choices its expensive. Luckily I figured out a way to use car2go for free."
+category:
+tags: []
+---
 {% include JB/setup %}
 
 **About car2go**
