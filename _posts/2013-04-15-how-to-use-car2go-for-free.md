@@ -9,7 +9,7 @@ tags: []
 
 **About car2go**
 
-Car2go is a car sharing service that lets you unlock any of hundreds of Smart cars parked throughout the city (in Austin, TX there are over 300 alone), drive to wherever you need to go and then leave the car parked there. You pay per minute you drive the car but there are no monthly fees, insurance costs or fuel charges. The main advantage over other car sharing services such as ZipCar is that the cars are equally spread throughout the city and you don't have to return the vehicle when you are done using it.
+[Car2go](car2go.com) is a car sharing service that lets you unlock any of hundreds of Smart cars parked throughout the city (in Austin, TX there are over 300 alone), drive to wherever you need to go and then leave the car parked there. You pay per minute you drive the car but there are no monthly fees, insurance costs or fuel charges. The main advantage over other car sharing services such as ZipCar is that the cars are equally spread throughout the city and you don't have to return the vehicle when you are done using it.
 
 **How to use car2go for free**
 
