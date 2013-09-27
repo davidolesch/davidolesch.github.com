@@ -35,3 +35,4 @@ Remember to put the prepaid card back into the dashboard slot and continue on to
 
 Car2go is available in Amsterdam, Austin, Berlin, Calgary, Duesseldorf, Hamburg, Köln, London, Miami, Portland, San Diego, Seattle, Stuttgart, Toronto, Ulm, Vancouver, Washington DC and Wien. Students can signup for free, there are often specials going on. A lifetime membership is just $35 so head over to [car2go.com](https://www.car2go.com) and click 'Become a Member'. 
 
+![car2go](http://a4.mzstatic.com/us/r30/Purple/v4/fe/7a/7a/fe7a7ad1-4db0-26cf-00f3-df2342bcc7d3/mzl.skrwulmz.175x175-75.jpg)
