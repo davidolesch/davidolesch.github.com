@@ -1,3 +1,12 @@
+---                                                                                                            
+layout: post
+title: "Parse.com backed UICollectionViews made easy"
+description: "Parse.com already provides a customizable controller for showing your data in a UITableView, but a customizable controller for UICollectionViews is missing."
+category:
+tags: []
+---
+{% include JB/setup %}
+
 If you've built a Parse.com backed iOS app you know how insanely easy it is to create a table view to display information stored in a Parse class using PFQueryTableViewController. You can easily define which objects to show, what order to show them in, and how each cell will look. 
 
 This is great if you want to show your data in a UITableView but not so great of you want to show your data in a UICollectionView. That's why I started building a equivalent to PFQueryTableViewController but for UICollectionViews called PFQueryCollectionViewController. 
