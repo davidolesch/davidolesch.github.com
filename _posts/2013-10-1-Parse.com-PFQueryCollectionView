@@ -6,7 +6,6 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-
 If you've built a Parse.com backed iOS app you know how insanely easy it is to create a table view to display information stored in a Parse class using PFQueryTableViewController. You can easily define which objects to show, what order to show them in, and how each cell will look. 
 
 This is great if you want to show your data in a UITableView but not so great of you want to show your data in a UICollectionView. That's why I started building a equivalent to PFQueryTableViewController but for UICollectionViews called PFQueryCollectionViewController. 
@@ -19,10 +18,9 @@ PFQueryCollectionViewController *photoCollection = [[PFQueryCollectionViewContro
 
 **Customize the objects shown and the look of each item in the collection view with these simple methods**
 
-``
+```
  - (PFQuery *)queryForCollection - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView
                   cellForItemAtIndexPath:(NSIndexPath *)indexPath object:(PFObject *)object
-``
-
+```
 
 *If this is something you would like to see open sourced please let me know. If you want to stay in the loop add your email below.*
